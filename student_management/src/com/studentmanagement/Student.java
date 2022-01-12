@@ -9,9 +9,7 @@ public class Student extends Marks {
 	public String seat_no, name,course,department,year,semester;
 	
 	 
-	//public LinkedHashMap<String,Integer> subjects = new LinkedHashMap<String,Integer>();
-
-
+	
 	public Student() 
 	{
 		this.subjects.put("physics", 0);
